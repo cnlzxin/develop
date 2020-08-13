@@ -14,6 +14,10 @@
 # Vim
 
 
+# Python
+## pyenv
+
+
 # 软件
 
 - [Little Snitch 4](https://www.obdev.at/products/littlesnitch/index.html): 付费, 防火墙
