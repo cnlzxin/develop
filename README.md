@@ -27,6 +27,7 @@
 - [iStat Menus](https://bjango.com/mac/istatmenus/): 付费, 监控 CPU、网络、温度, 可自定义风扇策略
 - [Wireshark](https://github.com/wireshark/wireshark): 开源, 抓包
 - [欧路词典](https://www.eudic.net/v4/en/app/eudic): 付费
+- [iTerm2](https://www.iterm2.com/): 免费, 终端
 
 
 # 工具
